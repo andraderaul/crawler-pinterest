@@ -1,0 +1,11 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Raul Andrade",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.5.0",
+    "util": "^0.12.3"
+  }
+}
